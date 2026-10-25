@@ -28,7 +28,7 @@ agents_on_call     24/7        # they work while I sleep
 
 ```console
 $ tail -1 ops.log
-2026-10-24 08:01 UTC · this README rebuilt itself. no humans were involved.
+2026-10-25 08:17 UTC · this README rebuilt itself. no humans were involved.
 
 $ uptime
 automating the mundane since it first annoyed me█
